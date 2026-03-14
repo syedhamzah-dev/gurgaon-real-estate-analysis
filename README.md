@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gurgaon Real Estate Data Analysis
 
 This project analyzes Gurgaon real estate property data using Python.
@@ -32,15 +32,12 @@ This project analyzes Gurgaon real estate property data using Python.
 ## Example Visualizations
 
 ### Price vs Area
-![Price vs Area](images/price_vs_area.png)
+![Price vs Area](Images/price_vs_area.png)
 
 ### Rate per Sqft vs Area
-![Rate vs Area](images/rate_per_sqft_vs_area.png)
+![Rate per Sqft vs Area](Images/rate_per_sqft_vs_area.png)
 
 ## Author
 Syed Mohammad Hamzah
 B.Tech CSE | Data Science Enthusiast
-=======
-# gurgaon-real-estate-analysis
-Real estate data cleaning, analysis and visualization using Python
->>>>>>> f7f9b9d725a1268d68dd389dfba01324336a23ab
+
