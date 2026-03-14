@@ -29,13 +29,6 @@ This project analyzes Gurgaon real estate property data using Python.
 9. Which builders price higher?
 10. Are larger homes more expensive per square foot?
 
-## Example Visualizations
-
-### Price vs Area
-![Price vs Area](Images/price_vs_area.png)
-
-### Rate per Sqft vs Area
-![Rate per Sqft vs Area](Images/rate_per_sqft_vs_area.png)
 
 ## Author
 Syed Mohammad Hamzah
